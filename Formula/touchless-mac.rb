@@ -3,7 +3,6 @@ class TouchlessMac < Formula
   homepage "https://github.com/qualixar/touchless-mac"
   url "https://github.com/qualixar/touchless-mac/releases/download/v0.1.1/touchless-mac-v0.1.1-macos-arm64.tar.gz"
   sha256 "c22e98f66ef739bb6a9c85a533ba9a498d35cac6100b4e2f311cc44e6c04e262"
-  version "0.1.1"
   license "MIT"
 
   depends_on arch: :arm64
